@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0007-reverse-integer](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0007-reverse-integer) |
 | [0043-multiply-strings](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0043-multiply-strings) |
+| [0633-sum-of-square-numbers](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0633-sum-of-square-numbers) |
 # Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0004-median-of-two-sorted-arrays) |
+| [0633-sum-of-square-numbers](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0633-sum-of-square-numbers) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -27,3 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0043-multiply-strings) |
+# Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/bhaveshsinghbest/LeetCodeByBhavesh/tree/master/0633-sum-of-square-numbers) |
